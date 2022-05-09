@@ -50,7 +50,7 @@ body {
   .about-section {
     padding: 50px;
     text-align: center;
-    background-color: #474e5d;
+    background-color: #000000;
     color: white;
   }
   
@@ -63,6 +63,16 @@ body {
     clear: both;
     display: table;
   }
+  
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+ }
   
   .title {
     color: grey;
